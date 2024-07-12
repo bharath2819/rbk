@@ -1,4 +1,6 @@
-a = 10
+e = 10
 b = 20 
-c = a+b
+c = e+b
 print (c)
+
+
